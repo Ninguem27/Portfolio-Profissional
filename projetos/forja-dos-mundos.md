@@ -1,56 +1,49 @@
-# 🎲 Forja dos Mundos
-
-**Categoria:** Plataforma web para RPG  
-**Situação:** Em desenvolvimento, com módulos em evolução e validações de publicação pendentes  
-**Apresentação:** Visão geral pública, sem código-fonte
+# Forja dos Mundos
 
 [← Voltar ao portfólio](../README.md)
 
----
+**Categoria:** plataforma web para RPG  
+**Atuação:** desenvolvimento da aplicação e integração de dados  
+**Tecnologias:** HTML, CSS, JavaScript e Supabase  
+**Situação:** em desenvolvimento
 
-## Visão geral
+## Problema
 
-A **Forja dos Mundos** é um projeto de plataforma digital para apoiar experiências de RPG. Seu escopo reúne recursos voltados a jogadores e narradores, incluindo criação e consulta de personagens, preparação de aventuras e interação entre participantes.
+Jogadores e mestres precisam organizar personagens, preparar aventuras e acompanhar mesas de RPG. O projeto reúne essas atividades em uma plataforma com ferramentas conectadas.
 
-O desafio principal é organizar diferentes ferramentas em uma experiência digital consistente, acessível em telas de tamanhos variados e preparada para evoluir com novos módulos.
+## Solução e escopo
 
-## Funcionalidades e áreas previstas no projeto
+- **Fichas de personagens:** organização de informações e recursos para uso durante a sessão.
+- **Ateliê:** criação e preparação de personagens, crônicas e mapas.
+- **Mesa de jogo:** rolagens, acompanhamento de ações e recursos de apoio à sessão.
+- **Comunidade:** perfis e interação entre participantes.
+- **Ciel:** assistente com recursos narrativos e auxiliares.
+- **Mobile e PWA:** adaptação da experiência para dispositivos móveis.
 
-- **Fichas de personagens:** organização de informações e apoio ao uso de fichas digitais.
-- **Ateliê de criação:** espaços e ferramentas para desenvolvimento de personagens, crônicas e mapas.
-- **Mesa de jogo:** recursos de apoio à experiência de RPG, como rolagens e acompanhamento de ações.
-- **Comunidade:** áreas relacionadas a perfis, interações e conteúdos compartilhados.
-- **Assistente Ciel:** interface conversacional com recursos narrativos e auxiliares, com limites de funcionamento conforme o módulo utilizado.
-- **Experiência mobile:** iniciativas de responsividade, desempenho e funcionamento de aplicação web progressiva (PWA).
+Os módulos evoluem por etapas; sua presença no projeto não significa que todos estejam homologados em produção.
 
-> As funcionalidades descritas fazem parte do escopo documentado do projeto. Isso não significa que todas estejam disponíveis ou homologadas em produção neste momento.
+## Decisões técnicas
 
-## Tecnologias e conhecimentos envolvidos
-
-| Tema | Aplicação |
+| Camada | Aplicação |
 | --- | --- |
-| Desenvolvimento web | Estruturação de interfaces e módulos da plataforma |
-| Supabase | Camada de dados e fluxos associados a autenticação e persistência |
-| PWA | Experiência otimizada para dispositivos móveis e estratégias de armazenamento local |
-| UX e responsividade | Navegação em diferentes resoluções e interfaces com múltiplas funções |
-| Testes e validação | Verificações de regressão, compatibilidade e preparação de publicação |
-| Organização do projeto | Documentação, entregas por etapas e acompanhamento de ajustes |
+| HTML, CSS e JavaScript | Interfaces, navegação e ferramentas interativas |
+| Supabase | Integração com dados, autenticação e persistência |
+| PWA e responsividade | Experiência em telas diferentes |
+| Testes e documentação | Validação de mudanças e organização das entregas |
+
+## Minha participação
+
+Sou responsável pelo desenvolvimento do projeto, desde as interfaces até as integrações e a preparação dos arquivos para hospedagem. Conto com apoio de uma pessoa nos testes.
 
 ## Desafios trabalhados
 
-1. Manter a experiência de navegação coerente em um sistema com várias áreas.
-2. Organizar dados e fluxos de diferentes tipos de conteúdo de RPG.
-3. Equilibrar funcionalidades interativas com o uso em dispositivos móveis.
-4. Preparar mudanças para testes e validação antes da publicação.
+1. Manter navegação consistente entre ferramentas com funções diferentes.
+2. Organizar os dados de personagens, mesas e conteúdo de RPG.
+3. Preservar informações durante a evolução dos módulos.
+4. Adaptar interfaces com muitas funções ao uso no celular.
 
-## Demonstração visual
+## Disponibilidade
 
-As imagens demonstrativas ainda não foram adicionadas a este portfólio. A divulgação de capturas será feita somente após revisão para evitar exposição de informações internas e conteúdos não destinados ao público.
+[Visitar Forja dos Mundos](https://forjadosmundos.com)
 
-## Código e disponibilidade
-
-O repositório de desenvolvimento é **privado**. Esta apresentação explica o propósito, a arquitetura em alto nível e os desafios do trabalho, sem compartilhar arquivos de implementação, chaves ou configurações internas.
-
----
-
-[← Voltar aos projetos](../README.md)
+O código completo é mantido em repositório privado.
