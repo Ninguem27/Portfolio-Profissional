@@ -1,79 +1,39 @@
-<div align="center">
+# Kaio Lucas — Portfólio profissional
 
-# Portfólio de Projetos
+**Desenvolvedor Full Stack · Graduando em Análise e Desenvolvimento de Sistemas**  
+Tramandaí, RS · Interesse em vagas remotas e estágio em tecnologia
 
-### Desenvolvimento web · Interfaces digitais · Experiência do usuário
+Desenvolvo projetos web desde a interface até a integração de dados e a preparação para hospedagem. Este portfólio apresenta quatro trabalhos, seus objetivos, funcionalidades e decisões técnicas.
 
-**Bem-vindo(a)!** Este espaço reúne apresentações de projetos que desenvolvi, com foco no problema atendido, nas soluções adotadas e nas tecnologias envolvidas.
+**Atuação:** responsável pelo desenvolvimento dos projetos, com apoio de uma pessoa nos testes.
 
-Os projetos completos são mantidos em repositórios privados. Aqui compartilho apenas uma visão profissional dos trabalhos, sem disponibilizar o código-fonte original.
+## Projetos
 
-[Conhecer os projetos](#projetos-em-destaque) · [Competências](#competências-demonstradas) · [Contato](#contato)
-
-</div>
-
----
-
-## Sobre este portfólio
-
-Gosto de transformar ideias em experiências digitais: desde páginas de apresentação orientadas à conversão até produtos com diferentes áreas e funcionalidades. Este repositório funciona como uma **vitrine de projetos**, direcionada a recrutadores, empresas e possíveis parceiros.
-
-> **Importante:** as descrições mostram o escopo dos projetos, não constituem uma afirmação de que todos os recursos estão publicados ou disponíveis em produção.
-
-## Projetos em destaque
-
-### 🎲 Forja dos Mundos
-**Plataforma digital para experiências de RPG | Em desenvolvimento**
-
-Projeto de maior abrangência, voltado à organização de aventuras e personagens, com módulos para fichas, criação de conteúdo, espaços de comunidade e recursos de uso em dispositivos móveis.
-
-**Aspectos abordados:** experiência do usuário, organização de funcionalidades, interfaces responsivas, integração de dados e evolução por etapas.
-
-**Tecnologias e conceitos presentes no projeto:** desenvolvimento web, Supabase, aplicação web progressiva (PWA), persistência de dados e testes.
-
-➡️ **[Ver apresentação do projeto](projetos/forja-dos-mundos.md)**
-
-### 🚀 Landing Page — Tati Finizola
-**Página de apresentação comercial | Projeto web**
-
-Landing page para o Método Live Milionária, com comunicação voltada a criadores de conteúdo que desejam aprender sobre lives no TikTok. A página apresenta o método, benefícios, provas visuais, perguntas frequentes e chamadas para ação.
-
-**Aspectos abordados:** identidade visual, hierarquia de informação, responsividade, navegação e experiência voltada à conversão.
-
-**Tecnologias identificadas:** HTML, CSS e JavaScript; estrutura preparada para hospedagem web.
-
-➡️ **[Ver apresentação do projeto](projetos/landing-page-tati.md)**
-
----
+| Projeto | Tipo | Tecnologias | Apresentação |
+| --- | --- | --- | --- |
+| **Forja dos Mundos** | Plataforma web para RPG | HTML, CSS, JavaScript, Supabase, PWA | [Conhecer](projetos/forja-dos-mundos.md) |
+| **Reginaldo Lopes Imóveis** | Site imobiliário com painel de gestão | PHP, MySQL, HTML, CSS, JavaScript | [Conhecer](projetos/reginaldo-lopes-imoveis.md) |
+| **Tati Finizola Creator** | Site comercial de produtos e serviços digitais | HTML, CSS, JavaScript, links Kiwify e WhatsApp | [Conhecer](projetos/landing-page-tati.md) |
+| **Catherini Rebelo** | Landing page profissional | HTML, CSS, JavaScript, formulário e áudio | [Conhecer](projetos/catherini-rebelo.md) |
 
 ## Competências demonstradas
 
-| Área | Aplicação nos projetos |
+| Área | Aplicação |
 | --- | --- |
-| Desenvolvimento web | Estruturação e implementação de interfaces |
-| Front-end | HTML, CSS, JavaScript e adaptação para diferentes telas |
-| Design de interfaces | Organização visual, hierarquia e navegação |
-| Experiência do usuário (UX) | Fluxos, legibilidade e chamadas para ação |
-| Integração de serviços | Conceitos de banco de dados e serviços com Supabase |
-| Qualidade e evolução | Revisões, testes e melhorias incrementais |
-| Publicação web | Preparação de projetos para hospedagem |
+| Front-end | Interfaces responsivas, navegação e identidade visual |
+| Back-end | Rotas e funções em PHP no sistema imobiliário |
+| Dados | MySQL e integração com Supabase em projetos distintos |
+| Integração de serviços | Links de compra e contato; fluxo de conexão com Google Agenda no sistema imobiliário |
+| Qualidade | Revisões de interface, correções a partir de testes e documentação |
+| Entrega | Organização de arquivos, versionamento e preparação para hospedagem |
 
-## Sobre o acesso aos projetos
+## Como avaliar os trabalhos
 
-- 🔓 **Este portfólio é público:** contém apresentações textuais destinadas à avaliação profissional.
-- 🔒 **Os repositórios originais são privados:** os arquivos-fonte, credenciais, configurações internas e materiais de trabalho não são divulgados aqui.
-- 🖼️ **Demonstrações visuais:** capturas de tela aprovadas para divulgação poderão ser acrescentadas a este repositório separadamente.
+Cada apresentação descreve o problema, a solução e o papel das tecnologias. Recursos que dependem de credenciais, configurações externas ou validação em produção estão identificados nas páginas dos projetos.
+
+Os códigos completos são mantidos em repositórios privados. Este espaço público reúne a apresentação profissional dos trabalhos.
 
 ## Contato
 
-📌 **GitHub:** [github.com/Ninguem27](https://github.com/Ninguem27)
-
-Para conversar sobre os projetos ou solicitar mais informações técnicas, utilize os canais de contato disponíveis no perfil do GitHub.
-
----
-
-<div align="center">
-
-*Portfólio público de apresentação. Código-fonte dos projetos preservado em repositórios privados.*
-
-</div>
+**E-mail:** [matachancho02@gmail.com](mailto:matachancho02@gmail.com)  
+**GitHub:** [Ninguem27](https://github.com/Ninguem27)

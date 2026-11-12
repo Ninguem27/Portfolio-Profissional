@@ -1,54 +1,44 @@
-# 🚀 Landing Page — Tati Finizola
-
-**Categoria:** Landing page comercial  
-**Projeto:** Método Live Milionária  
-**Apresentação:** Visão geral pública, sem código-fonte
+# Tati Finizola Creator
 
 [← Voltar ao portfólio](../README.md)
 
----
+**Categoria:** site comercial para produtos e serviços digitais  
+**Atuação:** desenvolvimento do site, interfaces e navegação  
+**Tecnologias:** HTML, CSS e JavaScript
 
-## Objetivo
+## Problema
 
-Desenvolvimento de uma página de apresentação comercial para o **Método Live Milionária**, de Tati Finizola Creator, com foco na comunicação do produto e na orientação de visitantes ao longo de uma jornada de conversão.
+Apresentar produtos e serviços distintos em um espaço único, orientando o visitante até a oferta ou o canal de contato correspondente.
 
-A proposta é apresentar o método de forma clara, explicar os temas abordados, oferecer elementos de confiança e facilitar o contato ou a ação desejada.
+## Solução
 
-## Elementos da experiência
+O site organiza comunidade, curso, workshop, gravação, mentoria e social mídia em páginas próprias, mantendo identidade visual e navegação consistentes.
 
-- **Seção inicial de destaque:** mensagem principal, identidade visual e chamada para ação.
-- **Apresentação do método:** organização das informações e benefícios.
-- **Conteúdo em seções:** explicação das dificuldades do público e dos temas trabalhados.
-- **Provas visuais e autoridade:** seções voltadas à apresentação de materiais de apoio.
-- **Perguntas frequentes:** tratamento de dúvidas comuns de visitantes.
-- **Chamadas para ação e contato:** botões de navegação e canais de comunicação.
-- **Layout responsivo:** adaptação da página para visualização em diferentes telas.
+## Recursos da versão V13
 
-## Tecnologias utilizadas
+- Páginas de início, comunidade, curso, workshop, mentoria, social mídia, sobre e contato.
+- Links de compra e inscrição direcionados à Kiwify.
+- Botões de WhatsApp com mensagens específicas para mentoria individual e social mídia.
+- Identidade visual, imagens de apresentação e ícones.
+- Layout adaptado para computador e celular.
 
-| Tecnologia | Papel no projeto |
+## Decisões técnicas
+
+| Recurso | Aplicação |
 | --- | --- |
-| HTML | Estrutura e conteúdo da página |
-| CSS | Estilo, identidade visual e responsividade |
-| JavaScript | Comportamentos e interações no navegador |
-| Hospedagem web | Preparação dos arquivos para publicação |
+| HTML | Organização das páginas e conteúdo |
+| CSS | Identidade visual, componentes e responsividade |
+| JavaScript | Interações e comportamento da navegação |
+| Links externos | Encaminhamento à Kiwify e ao WhatsApp |
 
-## Pontos importantes do desenvolvimento
+Os pagamentos são realizados na plataforma externa. Os botões de WhatsApp usam o número configurado no pacote; o guia V13 registra que esse número deve ser conferido pelo titular.
 
-1. Estrutura visual organizada para favorecer a leitura e destacar as chamadas para ação.
-2. Aplicação de uma identidade visual consistente ao longo da página.
-3. Adaptação dos componentes de interface para dispositivos móveis.
-4. Organização do conteúdo em blocos de apresentação, confiança, oferta e dúvidas.
-5. Revisão de ícones, links e pequenos detalhes de acabamento visual.
+## Desafios
 
-## Demonstração visual
+Manter clareza entre ofertas diferentes, padronizar os botões de ação e preservar a legibilidade em telas menores.
 
-Capturas de tela poderão ser incluídas após revisão e autorização para divulgação das imagens utilizadas na página. Nenhum material privado ou código-fonte foi copiado para esta apresentação.
+## Disponibilidade
 
-## Código e disponibilidade
+[Visitar o site](https://tatifinizolacreator.com.br)
 
-A implementação original é mantida em **repositório privado**. Esta página pública descreve o projeto e suas decisões de interface, sem expor arquivos HTML, CSS ou JavaScript da landing page original.
-
----
-
-[← Voltar aos projetos](../README.md)
+O código completo é mantido em repositório privado.
